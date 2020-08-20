@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: grey;
+}
+
+.Book{
+    background-color: pink;
+    padding: 10px;
+    margin: 10px;
+}
+
+#bookInfo{
+    display: none;
+    margin: 20px;
+}
+
+.deleteButton{
+    float: right;
+}
+
+.readButton{
+    float: inline-start;
+}
